@@ -1,9 +1,9 @@
 "# DSI-Project-1" 
 
 Change Log
-1. First commit with README
+1. Uploaded README
 2. Updated README with Data Dictionary
-3. First commit of code and updated README
+3. Uploaded worksheet and updated README
 
 Content
 1. Problem Statement
@@ -17,12 +17,12 @@ Content
 - Which state should you take SAT/ACT in?
 
 2. Data Inputs
-a) sat_2017.csv
-b) act_2018.csv
-c) sat_2018.csv
-d) act_2018_updated.csv
+- sat_2017.csv
+- act_2018.csv
+- sat_2018.csv
+- act_2018_updated.csv
 
-Data Dictionary
+3. Data Dictionary
 
 |Dataset|Description|Feature|Type|
 |---|---|---|---|
