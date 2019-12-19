@@ -23,6 +23,7 @@ c) sat_2018.csv
 d) act_2018_updated.csv
 
 Data Dictionary
+
 |Dataset|Description|Feature|Type|
 |---|---|---|---|
 |SAT/ACT|state|object|State for SAT 2017/2018 and ACT 2017/2018.|
